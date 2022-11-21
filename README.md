@@ -105,7 +105,6 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
 
 
 
