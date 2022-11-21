@@ -1,4 +1,4 @@
-![prog1](https://user-images.githubusercontent.com/93427186/203047583-ca855ef9-4980-49bf-9d70-13a9436efb22.jpg)
+
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
@@ -85,9 +85,10 @@ and click on the connect icon
 ### Program:
 ![prog1](https://user-images.githubusercontent.com/93427186/203047625-a41811e2-4c82-4a9a-b163-ef14204cfbf4.jpg)
 ![pro2](https://user-images.githubusercontent.com/93427186/203047637-52fdf183-55ae-49b3-958a-151023f4a6ab.jpg)
-![pro3](https://user-images.githubusercontent.com/93427186/203047512-de7c6541-0d74-43bb-96aa-a0ec3332c776.jpg)
+![pro3](https://user-images.githubusercontent.com/93427186/203047512-de7c6541-0d74-43bb-96a![robo2](https://user-images.githubusercontent.com/93427186/203047982-38199da5-5a69-41a1-aab0-6db6712d67b0.jpg)
+a-a0ec3332c776.jpg)
 ### Robo Action:
-![Uploading robo2.jpg…]()
+![robo2](https://user-images.githubusercontent.com/93427186/203048017-73453678-b419-4e5d-9116-79883733817a.jpg)
 
 
 
